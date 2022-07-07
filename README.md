@@ -21,5 +21,6 @@ Create all the data frames as shown in the notebook, and perform the same basic 
 
 5.	Identify the voids within the tiles and recommendations
 The final step then involves overlaying the voids collected from the early stages with the tiles holding the new recommendation values.  If the void intersects with the tile, then the amenity differences are shown within that void.  Through this method each void will receive a list of numbers for each of the amenities. Using the script in the notebooks, these values can be exported to a html file for an interactive web interface.
+<img width="1252" alt="method" src="https://user-images.githubusercontent.com/97453175/177812091-25537df5-710d-4789-8a13-a95ba155e34a.png">
 
 
